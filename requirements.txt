@@ -1,0 +1,9 @@
+pytest==7.0.1
+black==22.1.0
+wheel==0.37.1
+pylint==2.12.2
+pylint-junit==0.3.2
+mypy==0.942
+types-requests==2.27.15
+types-PyYaml==6.0.5
+pandas==1.4.2
