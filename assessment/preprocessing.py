@@ -13,8 +13,7 @@ def read_persons_of_interest() -> pd.DataFrame:
         pd.DataFrame: Persons of interest data
     """
     persons_of_interest = pd.read_csv(PERSONS_OF_INTEREST_DATA_PATH)
-    persons_of_interest = persons_of_interest.rename(columns={"Unnamed: 0": "name"})
-    persons_of_interest = persons_of_interest.set_index("name")
+    persons_of_interest = persons_of_interest.set_index("person_id")
 
     return persons_of_interest
 
