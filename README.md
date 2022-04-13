@@ -1,4 +1,4 @@
-# Assessment
+### Assessment
 
 # Introduction
 As part of the application process for the job position Data Scientist an assessment is taken. In this assessment you are asked to develop and present a case to the team. This document will explain the case you need to work on.
@@ -11,7 +11,7 @@ You are requested to build a model that predicts persons of interest within the 
 # Data
 The dataset contains a list of employees and features containing salary, secondary benefits and email message data. The data contains a lot of missing values.
 
-We have created some a basic module structure to get you started quickly.
+We have created a basic module structure to get you started quickly.
 
 ```
 import assessment
