@@ -13,8 +13,10 @@ The dataset contains a list of employees and features containing salary, seconda
 
 We have created some a basic module structure to get you started quickly.
 
-'import assessment'
-'persons_of_interest = assessment.preprocessing.read_persons_of_interest()'
+```
+import assessment
+persons_of_interest = assessment.preprocessing.read_persons_of_interest()
+```
 
 # Evaluation
 
