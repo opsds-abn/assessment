@@ -6,7 +6,7 @@ We expect you to develop this assessment in Python, but with the right reasoning
 
 ## Case description
 For this case we use a dataset of a company which has committed fraud in the past. 
-You are requested to build a model that predicts persons of interest within the company. 
+You are requested to build a model that predicts persons of interest within the company or perform a data analysis and tell a story about the data.
 
 ## Data
 The dataset contains a list of employees and features containing salary, secondary benefits and email message data. The data contains a lot of missing values.
