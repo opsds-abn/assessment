@@ -18,6 +18,8 @@ import assessment
 persons_of_interest = assessment.preprocessing.read_persons_of_interest()
 ```
 
+The columns 'poi' contains the information whether an employee is a person of interest
+
 ## Evaluation
 
 We expect you to spend around 1 to 1.5 hours on this assessment. We don't expect a full solution but instead are interested more in your thought patterns and your approach.
