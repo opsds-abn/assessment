@@ -18,7 +18,7 @@ import assessment
 persons_of_interest = assessment.preprocessing.read_persons_of_interest()
 ```
 
-The columns 'poi' contains the information whether an employee is a person of interest
+The column 'poi' contains the information whether an employee is a person of interest and can be seen as your target variable.
 
 ## Evaluation
 
