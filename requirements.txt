@@ -3,4 +3,5 @@ wheel==0.37.1
 pylint==2.12.2
 pylint-junit==0.3.2
 pandas==1.4.2
-sklearn
+numpy~=1.22.3
+scikit-learn~=1.0.2
